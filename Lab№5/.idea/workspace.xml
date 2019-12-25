@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5ca181a-4afd-44db-8ac7-af5b3db92de7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RQBKiu9uhxP0cukYIM4TkdC85y" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab№1new" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mirea.Main" />
+      <module name="LabNew№5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ca181a-4afd-44db-8ac7-af5b3db92de7" name="Default Changelist" comment="" />
+      <created>1569589378659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569589378659</updated>
+      <workItem from="1569589384603" duration="8725000" />
+      <workItem from="1569601132082" duration="648000" />
+      <workItem from="1569863358497" duration="4703000" />
+      <workItem from="1570270483606" duration="991000" />
+      <workItem from="1570271801020" duration="1038000" />
+      <workItem from="1570471980091" duration="1326000" />
+      <workItem from="1570473364844" duration="107000" />
+      <workItem from="1570545878709" duration="63000" />
+      <workItem from="1571414521170" duration="657000" />
+      <workItem from="1571415425233" duration="298000" />
+      <workItem from="1571415869509" duration="1644000" />
+      <workItem from="1571417580691" duration="34000" />
+      <workItem from="1571475966642" duration="709000" />
+      <workItem from="1576511453819" duration="455000" />
+    </task>
+    <servers />
+  </component>
+</project>

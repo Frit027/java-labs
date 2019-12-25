@@ -1,0 +1,2 @@
+It is a text from the FileWriter1.txt
+Hello, file1
